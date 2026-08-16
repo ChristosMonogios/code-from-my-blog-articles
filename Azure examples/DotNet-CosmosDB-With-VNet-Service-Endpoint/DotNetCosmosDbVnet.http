@@ -1,0 +1,6 @@
+@DotNetCosmosDbVnet_HostAddress = http://localhost:5048
+
+GET {{DotNetCosmosDbVnet_HostAddress}}/getdata/
+Accept: application/json
+
+###
